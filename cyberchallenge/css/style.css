@@ -9,3 +9,13 @@ article {
     font-size: large;
     text-align: center;
 }
+
+.kitty {
+    display: block;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+}
